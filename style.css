@@ -1,0 +1,10 @@
+body {
+  background-color: #fef5ed;
+}
+
+.carousel-caption {
+  max-width: 100%;
+  width: 100%;
+  left: 0;
+  padding: 0%;
+}
